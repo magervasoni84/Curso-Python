@@ -7,6 +7,7 @@ for letra in lista_1:
     for letra2 in lista_2:
         if(letra == letra2):
             lista_3.append(letra2)
+            
 """Lista sin filtar"""     
 print (lista_3)
 lista_4 = lista_3

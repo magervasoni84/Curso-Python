@@ -9,6 +9,10 @@ while(aux < num):
     suma += aux2
     aux += 1
 
+""" for i in range(num)
+        aux2 = int(input("Ingresa el numero: ")) 
+        suma += aux2 """
+
 print("La media es", float(suma/aux))
 
 """ Probar de hacerlo con sum() """
