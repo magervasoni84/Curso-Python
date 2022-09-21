@@ -1,7 +1,7 @@
 #Primero hay que instalar paquete xlrd
 #haciendo pip install openpyxl en la consola
 
-#Se realiz la importacionde los modulos
+#Se realiza la importacionde los modulos
 from openpyxl import Workbook
 #Modulo para modificar fuentes
 from openpyxl.styles import Font 
